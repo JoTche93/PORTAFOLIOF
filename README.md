@@ -2,5 +2,5 @@
 portafoliofinal
 
 USO IA:
-chat GPT para recomendaciones, depuracion de codigo, y sugerencias de mejoras.
+chat GPT para recomendaciones, revision de errores, y sugerencias de mejoras, ajustes del css
 
